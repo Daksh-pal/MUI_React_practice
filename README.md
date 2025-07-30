@@ -1,12 +1,37 @@
-# React + Vite
+# MUI + React Practice
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a personal practice repository to explore and understand how to build modern React applications using [Material UI (MUI)](https://mui.com/). It includes experimentation with various components, layout structures, and theming provided by MUI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ Built with **ReactJS**
+- 🎨 Styled using **Material UI (MUI v5)**
+- 🧩 Practising reusable components
+- 📱 Responsive layouts with MUI's Grid and Flexbox
+- 🧪 Trying different MUI components: Buttons, Cards, Tables, etc.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React** (via `create-react-app`)
+- **Material UI (MUI)**
+- **JavaScript**
+- **VS Code** (for development)
+
+---
+
+
+## 📦 Installation
+
+1. **Clone the repo:**
+
+```bash
+git clone https://github.com/Daksh-pal/MUI_React_practice.git
+cd MUI_React_practice
+npm install
+npm run dev
+```
+
