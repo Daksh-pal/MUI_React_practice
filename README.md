@@ -16,7 +16,7 @@ This project is a personal practice repository to explore and understand how to 
 
 ## 🛠️ Tech Stack
 
-- **React** (via `create-react-app`)
+- **React** (via `vite`)
 - **Material UI (MUI)**
 - **JavaScript**
 - **VS Code** (for development)
